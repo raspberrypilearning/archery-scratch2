@@ -1,12 +1,3 @@
-# Contributing
-
-All contributions are assumed to be licensed under the same licence as the source, i.e. [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/). This licence must remain in all derivatives of this work.
-
-## Issues
-
-If you find a mistake, bug, or other problem, please [open an issue](https://github.com/raspberrypilearning/repo-name/issues) in this repository.
-
-## Pull requests
 
 All edits to a resource should be made to the draft branch or to a fork of the repo. These patches can then be submitted as a pull request.
 

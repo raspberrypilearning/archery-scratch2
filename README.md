@@ -1,6 +1,6 @@
-# archery-scratch2
+# archery
 
-![archery-scratch2](banner.png)
+![archery](/en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/archery-scratch2](https://projects.raspberrypi.org/en/projects/archery-scratch2)
 
